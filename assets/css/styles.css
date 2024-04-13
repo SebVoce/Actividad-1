@@ -1,0 +1,9 @@
+body {background-color: rgb(217, 231, 231);}
+
+h1 {font-family:'Arial';
+    text-align: center;
+    background-color: rgb(48, 47, 47);
+    color: aliceblue;
+    border-radius: .5rem;}
+
+.bloque {background-color: black;}
